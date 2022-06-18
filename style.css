@@ -62,7 +62,7 @@ body {
 
 .gameover-message span {
   font-size: .6rem;
-  text-transform: lowercase;
+  text-transform: none;
 }
 
 .ground {
