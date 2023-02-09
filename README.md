@@ -12,9 +12,5 @@
 - Collision detection
 - Gradual increase in game speed
 
-## References
-- [Dinosaur Game](https://en.wikipedia.org/wiki/Dinosaur_Game)
-- [Web Dev Simplified](https://www.youtube.com/watch?v=47eXVRJKdkU)
-
 ## Screenshot
 ![Screenshot](https://user-images.githubusercontent.com/77227201/174440360-c3c3d692-a9cd-4fe3-ad1c-43fdebf4c55a.png)
